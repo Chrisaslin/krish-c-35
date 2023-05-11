@@ -1,1 +1,2 @@
-# krish-c-35
+# synchronousBallMovement
+Ball moving synchronously
